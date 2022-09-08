@@ -10,7 +10,7 @@ require (
 	github.com/katbyte/terrafmt v0.4.0
 	github.com/pavius/impi v0.0.3
 	github.com/rhysd/actionlint v1.6.15
-	github.com/terraform-linters/tflint v0.39.3
+	github.com/terraform-linters/tflint v0.40.0
 )
 
 require (
@@ -81,7 +81,6 @@ require (
 	github.com/gobwas/glob v0.2.3 // indirect
 	github.com/gofrs/flock v0.8.1 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
-	github.com/golang/mock v1.6.0 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/golangci/check v0.0.0-20180506172741-cfe4005ccda2 // indirect
 	github.com/golangci/dupl v0.0.0-20180902072040-3e9179ac440a // indirect
@@ -106,15 +105,15 @@ require (
 	github.com/hashicorp/errwrap v1.1.0 // indirect
 	github.com/hashicorp/go-cleanhttp v0.5.2 // indirect
 	github.com/hashicorp/go-getter v1.6.2 // indirect
-	github.com/hashicorp/go-hclog v1.2.0 // indirect
+	github.com/hashicorp/go-hclog v1.3.0 // indirect
 	github.com/hashicorp/go-multierror v1.1.1 // indirect
-	github.com/hashicorp/go-plugin v1.4.4 // indirect
+	github.com/hashicorp/go-plugin v1.4.5 // indirect
 	github.com/hashicorp/go-safetemp v1.0.0 // indirect
 	github.com/hashicorp/go-uuid v1.0.3 // indirect
 	github.com/hashicorp/go-version v1.6.0 // indirect
 	github.com/hashicorp/hc-install v0.3.2 // indirect
 	github.com/hashicorp/hcl v1.0.0 // indirect
-	github.com/hashicorp/hcl/v2 v2.13.0 // indirect
+	github.com/hashicorp/hcl/v2 v2.14.0 // indirect
 	github.com/hashicorp/logutils v1.0.0 // indirect
 	github.com/hashicorp/terraform-exec v0.16.1 // indirect
 	github.com/hashicorp/terraform-json v0.13.0 // indirect
@@ -147,8 +146,8 @@ require (
 	github.com/magiconair/properties v1.8.6 // indirect
 	github.com/maratori/testpackage v1.1.0 // indirect
 	github.com/matoous/godox v0.0.0-20210227103229-6504466cf951 // indirect
-	github.com/mattn/go-colorable v0.1.12 // indirect
-	github.com/mattn/go-isatty v0.0.14 // indirect
+	github.com/mattn/go-colorable v0.1.13 // indirect
+	github.com/mattn/go-isatty v0.0.16 // indirect
 	github.com/mattn/go-runewidth v0.0.13 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.1 // indirect
 	github.com/mbilski/exhaustivestruct v1.2.0 // indirect
@@ -213,7 +212,8 @@ require (
 	github.com/subosito/gotenv v1.4.0 // indirect
 	github.com/sylvia7788/contextcheck v1.0.4 // indirect
 	github.com/tdakkota/asciicheck v0.1.1 // indirect
-	github.com/terraform-linters/tflint-plugin-sdk v0.11.0 // indirect
+	github.com/terraform-linters/tflint-plugin-sdk v0.12.0 // indirect
+	github.com/terraform-linters/tflint-ruleset-terraform v0.1.0 // indirect
 	github.com/tetafro/godot v1.4.11 // indirect
 	github.com/timakin/bodyclose v0.0.0-20210704033933-f49887972144 // indirect
 	github.com/tomarrell/wrapcheck/v2 v2.6.2 // indirect
@@ -230,7 +230,7 @@ require (
 	github.com/yeya24/promlinter v0.2.0 // indirect
 	github.com/yuin/goldmark v1.4.13 // indirect
 	github.com/yuin/goldmark-meta v0.0.0-20191126180153-f0638e958b60 // indirect
-	github.com/zclconf/go-cty v1.10.0 // indirect
+	github.com/zclconf/go-cty v1.11.0 // indirect
 	github.com/zclconf/go-cty-yaml v1.0.2 // indirect
 	gitlab.com/bosi/decorder v0.2.3 // indirect
 	go.opencensus.io v0.23.0 // indirect
@@ -238,21 +238,22 @@ require (
 	go.uber.org/multierr v1.6.0 // indirect
 	go.uber.org/zap v1.17.0 // indirect
 	golang.org/x/crypto v0.0.0-20220525230936-793ad666bf5e // indirect
+	golang.org/x/exp v0.0.0-20220722155223-a9213eeb770e // indirect
 	golang.org/x/exp/typeparams v0.0.0-20220613132600-b0d781184e0d // indirect
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616 // indirect
 	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4 // indirect
 	golang.org/x/net v0.0.0-20220722155237-a158d28d115b // indirect
 	golang.org/x/oauth2 v0.0.0-20220411215720-9780585627b5 // indirect
 	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4 // indirect
-	golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f // indirect
+	golang.org/x/sys v0.0.0-20220811171246-fbc7d0a398ab // indirect
 	golang.org/x/text v0.3.7 // indirect
 	golang.org/x/tools v0.1.12 // indirect
 	golang.org/x/xerrors v0.0.0-20220517211312-f3a8303e98df // indirect
 	google.golang.org/api v0.81.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/genproto v0.0.0-20220519153652-3a47de7e79bd // indirect
-	google.golang.org/grpc v1.46.2 // indirect
-	google.golang.org/protobuf v1.28.0 // indirect
+	google.golang.org/grpc v1.49.0 // indirect
+	google.golang.org/protobuf v1.28.1 // indirect
 	gopkg.in/ini.v1 v1.66.6 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
